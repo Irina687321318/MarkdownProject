@@ -6,3 +6,5 @@ Aquesta activitat és per aprendre els commands i fer projectes a git i git hub
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+# Introduction
