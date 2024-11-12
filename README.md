@@ -8,6 +8,8 @@ Aquesta activitat és per aprendre els commands i fer projectes a git i git hub 
 - [License](#license)
 
 ### Introduction
+
+![Project Logo](images/fitnesslogo.jpg).
 ### Features
 ### Installation
 ### Usage
