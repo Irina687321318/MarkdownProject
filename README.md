@@ -11,6 +11,12 @@ Aquesta activitat és per aprendre els commands i fer projectes a git i git hub 
 <img src = "images/fitnesslogo.jpg" width = 150px>
 
 ### Features
+| Feature     | Description     | Status        |
+| :---        |    :----:       |          ---: |
+| Feature1    | Description2    | Status1       |
+| Feature2    | Description2    | Status2       |
+| Feature3    | Description3    | Status3       |
+
 ### Installation
 ### Usage
 ### License
