@@ -1,0 +1,250 @@
+commit 1dfe315fcc0883dd6aad16e51c7359af866d3820
+Merge: 65c247e ce95481
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 13:12:15 2024 +0100
+
+    Merge pull request #2 from Irina687321318/feature/1-contribution-guidelines
+    
+    Feature/1 contribution guidelines
+
+commit 65c247e90857e01827c5a375433db9da81d271eb
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 12:09:14 2024 +0100
+
+    Add files via upload
+
+ CONTRIBUTING.md | 75 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 75 insertions(+)
+
+commit ce9548177adf72e8400b07180ecd7ffb38bdec25
+Merge: 0d89ce3 a9c121a
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 10:39:12 2024 +0100
+
+    fusion done
+
+commit a9c121a866cd02e0f417d542845dd463c526ab0c
+Merge: 7e928a8 43b032c
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 10:27:55 2024 +0100
+
+    Merge pull request #3 from Irina687321318/revert-2-feature/1-contribution-guidelines
+    
+     "Feature/1 contribution guidelines"
+
+commit 0d89ce30b2325a0639bf10890dad8738048b4b0a
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 10:05:28 2024 +0100
+
+    Add contrbution guidelines
+
+ CONTRIBUTING.md | 75 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 75 insertions(+)
+
+commit 43b032c52f4f1974e073e518ad034e5c50d93d6d
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 10:23:33 2024 +0100
+
+    Revert "Feature/1 contribution guidelines"
+
+ CONTRIBUTING.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7e928a80baa2296f213f07a48f5489764b8d9ed3
+Merge: 5d69f1f 085d592
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 10:14:37 2024 +0100
+
+    Merge pull request #2 from Irina687321318/feature/1-contribution-guidelines
+    
+    Feature/1 contribution guidelines
+
+commit 085d592d66f02985785ecc183405a5e858714b9c
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 10:05:28 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4840d94ee6c10370b429a8839d566e3df1fd20d3
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 10:03:49 2024 +0100
+
+    elimination document error
+
+ CONTRIBUTING.md | 162 --------------------------------------------------------
+ 1 file changed, 162 deletions(-)
+
+commit 885bdbf315bb32fba6aeefa009b04a25168b029d
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 09:57:44 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 162 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 162 insertions(+)
+
+commit 5d69f1fb77c8a38729018969d82258c32abcc6c3
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 09:26:21 2024 +0100
+
+    Update introduction of README.md
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit a929e4aab943a6df495c3af38949557137d6484a
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 09:21:32 2024 +0100
+
+    Add validation 1 file
+
+ validation.txt | 144 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 144 insertions(+)
+
+commit bf2f3d5dbfdfee3228379f5eae844cb22054a81e
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 09:11:23 2024 +0100
+
+    Merge add-license branch into main(message modification this way because task 10 problem)
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit b8f51b0bd8629ae45d4cd0d9f11036c846dbca77
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 08:39:51 2024 +0100
+
+    Add MIT License
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 99b068d990fe2941ee78c710c40a10046623d958
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 08:24:15 2024 +0100
+
+    Enhance README wiht formatting
+
+ README.md | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+
+commit 44a4af9e5073065c3af62a0ef0bd5384d321c637
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 19 08:08:12 2024 +0100
+
+    images folder adding
+
+ images/fitnesslogo.jpg | Bin 0 -> 42339 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c46831304683e36c0c3484fcfb749194e56d3a67
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 10:53:35 2024 +0100
+
+    add feature list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 586a6c52763a693b041956b542bb1abd4829331f
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 10:31:30 2024 +0100
+
+    image link changed to html style to render image
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 5a2cdb0292b57f944a1265aaaa1f286486d7b9bf
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 10:13:28 2024 +0100
+
+    Add project logo to README
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 1120c2eda53360bde9f781bf4d3e014789de6d76
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 10:02:34 2024 +0100
+
+     changes from # to ### error & Add sections to README
+
+ README.md | 9 +++++++--
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+
+commit 7c229acde967187406d12f45c40b3cea6c955977
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 09:52:51 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit d9d09fad1125252a53992f63f0260d3ce1493ad1
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 09:44:59 2024 +0100
+
+    readme modified, forgot the - before list
+
+ README.md | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+commit 355c20413764b6a9631976954bb8d073c365419e
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 09:34:37 2024 +0100
+
+    Add Table of contents to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 83543e9fe9ef79afe949d9345412c71de8e62bf3
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 09:28:05 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 2b0c5fff261b212f1f28c4d23e8cb1f7b9cc4b01
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 09:22:49 2024 +0100
+
+    initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 5d00becae125f6a1cc03d7d9552996368f45bf07
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 09:21:43 2024 +0100
+
+    initial commit with .gitignore
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 19dccf60cca5c193632bad154dc785b9a9934711
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 09:15:01 2024 +0100
+
+    initial commit with .gitignore
+
+ notes/.gitignore => .gitignore | 0
+ notes/notes.txt                | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8beefae17c7126f266105b175309d554137da48f
+Author: Irina <47748161t@iespoblenou.org>
+Date:   Tue Nov 12 08:58:11 2024 +0100
+
+    initial commit with .gitignore
+
+ notes/.gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
